@@ -16,3 +16,15 @@ time,hostname,return_status
 2024-07-20 00:29:13.724687,google.com,Network Active
 2024-07-20 00:29:23.902372,google.com,Network Active
 2024-07-20 00:29:34.088395,google.com,Network Active
+2024-07-20 00:29:44.251686,google.com,Network Active
+2024-07-20 00:29:54.418123,google.com,Network Active
+2024-07-20 00:30:04.618598,google.com,Network Active
+2024-07-20 00:30:14.815715,google.com,Network Active
+2024-07-20 00:30:24.969395,google.com,Network Active
+2024-07-20 00:30:35.138672,google.com,Network Error
+2024-07-20 00:30:49.145622,google.com,Network Active
+2024-07-20 00:30:59.289753,google.com,Network Active
+2024-07-20 00:31:09.448163,google.com,Network Active
+2024-07-20 00:31:19.604998,google.com,Network Active
+2024-07-20 00:31:29.757214,google.com,Network Active
+2024-07-20 00:31:39.934904,google.com,Network Active
